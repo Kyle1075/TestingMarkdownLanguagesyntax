@@ -2,7 +2,7 @@
 ### This is just a test.
 [Website Link](https://kyle1075.github.io/TestingMarkdownLanguagesyntax/)
 
-![Example Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.studyinfinland.fi%2Funiversities%2Foulu-university-applied-sciences&psig=AOvVaw1XjEXgcnNJkT0UYmrOTbKX&ust=1728837757334000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKCGkdakiYkDFQAAAAAdAAAAABAI)
+![Example Image](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 
 print("HI")
 
